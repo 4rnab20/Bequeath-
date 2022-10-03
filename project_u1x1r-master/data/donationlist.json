@@ -1,0 +1,17 @@
+{"donations": [
+    {
+        "Type": "h",
+        "Amount": 100,
+        "ID": 1
+    },
+    {
+        "Type": "e",
+        "Amount": 920,
+        "ID": 2
+    },
+    {
+        "Type": "o",
+        "Amount": 350,
+        "ID": 3
+    }
+]}
